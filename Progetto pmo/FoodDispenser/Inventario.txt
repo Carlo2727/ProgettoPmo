@@ -1,0 +1,9 @@
+﻿CocaCola-2,5	-01-3
+Sprite	-2,5	-02-2
+Tuc	-1,4	-03-3
+Twix	-1,8	-04-3
+Fanta	-2,5	-05-1
+Smarties-1,7	-06-3
+Patatine-1,5	-07-2
+Acqua	-1,2	-08-3
+Mikado	-1,6	-09-2

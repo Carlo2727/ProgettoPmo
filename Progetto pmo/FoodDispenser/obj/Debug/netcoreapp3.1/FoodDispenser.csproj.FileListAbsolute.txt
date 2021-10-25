@@ -1,0 +1,56 @@
+C:\Users\lallo\source\repos\FoodDispenser\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.exe
+C:\Users\lallo\source\repos\FoodDispenser\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.deps.json
+C:\Users\lallo\source\repos\FoodDispenser\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.runtimeconfig.json
+C:\Users\lallo\source\repos\FoodDispenser\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.runtimeconfig.dev.json
+C:\Users\lallo\source\repos\FoodDispenser\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.dll
+C:\Users\lallo\source\repos\FoodDispenser\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.pdb
+C:\Users\lallo\source\repos\FoodDispenser\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.csproj.AssemblyReference.cache
+C:\Users\lallo\source\repos\FoodDispenser\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lallo\source\repos\FoodDispenser\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.AssemblyInfoInputs.cache
+C:\Users\lallo\source\repos\FoodDispenser\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.AssemblyInfo.cs
+C:\Users\lallo\source\repos\FoodDispenser\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.csproj.CoreCompileInputs.cache
+C:\Users\lallo\source\repos\FoodDispenser\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.dll
+C:\Users\lallo\source\repos\FoodDispenser\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.pdb
+C:\Users\lallo\source\repos\FoodDispenser\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.genruntimeconfig.cache
+C:\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.exe
+C:\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.deps.json
+C:\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.runtimeconfig.json
+C:\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.runtimeconfig.dev.json
+C:\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.dll
+C:\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.pdb
+C:\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.csproj.AssemblyReference.cache
+C:\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.GeneratedMSBuildEditorConfig.editorconfig
+C:\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.AssemblyInfoInputs.cache
+C:\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.AssemblyInfo.cs
+C:\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.csproj.CoreCompileInputs.cache
+C:\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.dll
+C:\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.pdb
+C:\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.genruntimeconfig.cache
+C:\Users\lallo\OneDrive\Desktop\Progetto pmo\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.csproj.AssemblyReference.cache
+C:\Users\lallo\OneDrive\Desktop\Progetto pmo\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lallo\OneDrive\Desktop\Progetto pmo\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.AssemblyInfoInputs.cache
+C:\Users\lallo\OneDrive\Desktop\Progetto pmo\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.AssemblyInfo.cs
+C:\Users\lallo\OneDrive\Desktop\Progetto pmo\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.csproj.CoreCompileInputs.cache
+C:\Users\lallo\OneDrive\Desktop\Progetto pmo\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.dll
+C:\Users\lallo\OneDrive\Desktop\Progetto pmo\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.pdb
+C:\Users\lallo\OneDrive\Desktop\Progetto pmo\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.exe
+C:\Users\lallo\OneDrive\Desktop\Progetto pmo\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.deps.json
+C:\Users\lallo\OneDrive\Desktop\Progetto pmo\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.runtimeconfig.json
+C:\Users\lallo\OneDrive\Desktop\Progetto pmo\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.runtimeconfig.dev.json
+C:\Users\lallo\OneDrive\Desktop\Progetto pmo\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.dll
+C:\Users\lallo\OneDrive\Desktop\Progetto pmo\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.pdb
+C:\Users\lallo\OneDrive\Desktop\Progetto pmo\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.genruntimeconfig.cache
+C:\Users\lallo\OneDrive\Desktop\università\Progetto pmo\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.exe
+C:\Users\lallo\OneDrive\Desktop\università\Progetto pmo\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.deps.json
+C:\Users\lallo\OneDrive\Desktop\università\Progetto pmo\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.runtimeconfig.json
+C:\Users\lallo\OneDrive\Desktop\università\Progetto pmo\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.runtimeconfig.dev.json
+C:\Users\lallo\OneDrive\Desktop\università\Progetto pmo\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.dll
+C:\Users\lallo\OneDrive\Desktop\università\Progetto pmo\FoodDispenser\bin\Debug\netcoreapp3.1\FoodDispenser.pdb
+C:\Users\lallo\OneDrive\Desktop\università\Progetto pmo\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.csproj.AssemblyReference.cache
+C:\Users\lallo\OneDrive\Desktop\università\Progetto pmo\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lallo\OneDrive\Desktop\università\Progetto pmo\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.AssemblyInfoInputs.cache
+C:\Users\lallo\OneDrive\Desktop\università\Progetto pmo\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.AssemblyInfo.cs
+C:\Users\lallo\OneDrive\Desktop\università\Progetto pmo\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.csproj.CoreCompileInputs.cache
+C:\Users\lallo\OneDrive\Desktop\università\Progetto pmo\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.dll
+C:\Users\lallo\OneDrive\Desktop\università\Progetto pmo\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.pdb
+C:\Users\lallo\OneDrive\Desktop\università\Progetto pmo\FoodDispenser\obj\Debug\netcoreapp3.1\FoodDispenser.genruntimeconfig.cache
